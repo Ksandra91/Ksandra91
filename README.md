@@ -15,12 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently learning Java
-
+🔭 I’m currently working on [Task Manager](https://github.com/Ksandra91/java-project-99) 
+📫 How to reach me: https://t.me/A_Ksandra
+⚡ Fun fact: I have a degree in Service and tourism.
 
 I want to constantly improve my skills and write clean code.
 
 I am looking for a job as a Junior Java Developer. I am open to cooperation🙂
 ### Skills 
+
++ Java SE
++ Git
++ SQL
++ Gradle
++ Spring Boot
+
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
                     </p>
