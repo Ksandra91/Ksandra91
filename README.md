@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently learning Java
+
+
 I want to constantly improve my skills and write clean code.
 
 I am looking for a job as a Junior Java Developer. I am open to cooperation🙂
