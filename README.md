@@ -1,4 +1,4 @@
-## Привет 👋
+## Hello 👋
 
 <!--
 **Ksandra91/Ksandra91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+ 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,20 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Имею опыт работы в IT сфере. Мечтаю развиваться как разрабочик, сейчас изучаю Java. 
+I want to constantly improve my skills and write clean code.
 
-Хочу постоянно совершенствовать свои навыки и писать чистый код.
-
-Ищу работу на позицию Junior Java Developer. Открыта к сотрудничеству🙂
+I am looking for a job as a Junior Java Developer. I am open to cooperation🙂
 ### Skills 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
                     </p>
 
-### Резюме
-[Хекслет](https://cv.hexlet.io/ru/resumes/3783)
+### CV
+[Hexlet](https://cv.hexlet.io/ru/resumes/3783)
 
-[Хабр](https://career.habr.com/ksandra91)
+[Habr](https://career.habr.com/ksandra91)
 ### Badges
 
 <b>My GitHub Stats</b>
